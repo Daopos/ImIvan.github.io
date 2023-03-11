@@ -455,3 +455,28 @@ footer {
 
     
   }
+
+ @media only screen and (max-width: 400px) {
+
+    .ivan {
+        width: 350px;
+
+    }
+    .ivan-gif {
+        margin: 50px 20px;
+    }
+
+    .hello {
+        margin-left: 3rem;
+        margin-top: 20rem;
+        font-size: small;
+    }
+
+    .intro {
+        margin-left: 50px;
+        margin-top: 80px;
+        
+    }
+
+    
+  }
