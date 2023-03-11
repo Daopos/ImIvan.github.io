@@ -224,7 +224,9 @@ footer {
         margin: 50px 130px;
     }
 
-  
+    .hello {
+        margin-left: 32rem;
+    }
     
 
 }
@@ -237,7 +239,10 @@ footer {
         margin: 50px 90px;
     }
 
-  
+    .hello {
+        margin-left: 30rem;
+    }
+    
     
 
 }
@@ -250,104 +255,14 @@ footer {
         margin: 50px 60px;
     }
 
- 
-}
-
-
-
-/* @media only screen and (max-width: 1662px) {
-
-    .ivan-gif {
-        margin: 50px 200px;
-    }
-
-    .intro {
-        margin-left: 500px;
-        margin-top: 20px;
-        
-    }
-    
-}
-
-@media only screen and (max-width: 1540px) {
-    .intro {
-        margin-left: 500px;
-        margin-top: 20px;
-        
-    }
-
-
-    .ivan {
-        width: 500px;
-
-    }
-    
-    .ivan-gif {
-        margin: 50px 200px;
-    }
-
     .hello {
-        margin-left: 37rem;
-        margin-top: 4rem;
-        
-    
+        margin-left: 28rem;
     }
-
-    .intro {
-        margin-left: -20px;
-        margin-top: 250px;
-        
-    }
-
-    footer {
-        margin-top: 70px ;
-    }
-
-    .nav-list {
-        margin-left: 200px;
-    }
-    
 }
 
-@media only screen and (max-width: 1476px) {
-    .intro {
-        margin-left: 500px;
-        margin-top: 20px;
-        
-    }
 
 
-    .ivan {
-        width: 500px;
 
-    }
-    
-    .ivan-gif {
-        margin: 50px 150px;
-    }
-
-    .hello {
-        margin-left: 37rem;
-        margin-top: 4rem;
-        
-    
-    }
-
-    .intro {
-        margin-left: -20px;
-        margin-top: 250px;
-        
-    }
-
-    footer {
-        margin-top: 70px ;
-    }
-
-    .nav-list {
-        margin-left: 200px;
-    }
-    
-} */
 
 @media only screen and (max-width: 1214px) {
     .nav {
@@ -457,7 +372,7 @@ footer {
     
   }
 
- @media only screen and (max-width: 420px) {
+  @media only screen and (max-width: 420px) {
 
     .ivan {
         width: 350px;
