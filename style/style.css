@@ -173,14 +173,14 @@ footer {
 }
 
 
-@media only screen and (max-width: 1662px) {
+/* @media only screen and (max-width: 1662px) {
     .intro {
         margin-left: 500px;
         margin-top: 20px;
         
     }
     
-}
+} */
 
 @media only screen and (max-width: 1540px) {
     .intro {
