@@ -16,6 +16,7 @@ body {
     background-color: #212121;
     color: #14FFEC;
     overflow-x: hidden;
+    max-width: 100%;
 }
 
 
