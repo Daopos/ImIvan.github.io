@@ -393,6 +393,10 @@ footer {
         margin-top: 80px;
         
     }
-
+    
+      
+    html {
+        overflow-x: hidden
+    };
     
   }
