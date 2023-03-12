@@ -10,13 +10,18 @@
    
   }
 
+  html {
+    overflow-x: hidden;
+  }
+
 body {
     padding: 0;
     margin: 0;
     background-color: #212121;
     color: #14FFEC;
-    overflow-x: hidden;
     max-width: 100%;
+    /* overflow-x: hidden; */
+
 }
 
 
@@ -351,20 +356,22 @@ footer {
   @media only screen and (max-width: 851px) {
 
     .ivan {
-        width: 500px;
+        width: 460px;
 
     }
     .ivan-gif {
-        margin: 50px 20px;
+        margin: 50px 10px;
     }
 
     .hello {
         margin-left: 3rem;
         margin-top: 22rem;
+        font-size: large;
+
     }
 
     .intro {
-        margin-left: 50px;
+        margin-left: 40px;
         margin-top: 80px;
         
     }
@@ -393,7 +400,9 @@ footer {
         margin-top: 80px;
         
     }
-    
 
+    html {
+        overflow-x: hidden
+    };
     
   }
